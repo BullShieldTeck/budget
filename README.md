@@ -45,6 +45,18 @@ Ou accédez directement à la version en ligne :
 
 ---
 
+## 🔗 Liens EkHo
+
+- 🌐 Site: [https://ekho.re](https://ekho.re)
+- ▶️ Démo en ligne: [https://ekho.re/html/saas/budget.html](https://ekho.re/html/saas/budget.html)
+- 🐙 GitHub (profil): [https://github.com/BullShieldTeck](https://github.com/BullShieldTeck)
+- 📦 GitHub (repo): [https://github.com/BullShieldTeck/budget](https://github.com/BullShieldTeck/budget)
+- 💬 WhatsApp: [https://wa.me/message/G5VZMORW65IQI1](https://wa.me/message/G5VZMORW65IQI1)
+- ✈️ Telegram: [https://t.me/EkHo974?direct](https://t.me/EkHo974?direct)
+- 📧 Email: [contact@ekho.re](mailto:contact@ekho.re)
+
+---
+
 ## 📁 Structure
 
 ```
