@@ -2,6 +2,8 @@
 
 > Application de suivi budgétaire familial — 100 % frontend, zéro dépendance, zéro serveur.
 
+![Aperçu de l’application](screenshot.webp)
+
 **🌐 Live demo → [ekho.re/html/saas/budget.html](https://ekho.re/html/saas/budget.html)**
 
 ---
